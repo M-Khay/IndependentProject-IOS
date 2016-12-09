@@ -1,0 +1,189 @@
+
+/* Class = "IBUINavigationItem"; title = "Chats"; ObjectID = "12G-iS-U8x"; */
+"12G-iS-U8x.title" = "Chats";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "1X0-bM-R80"; */
+"1X0-bM-R80.placeholder" = "First Name";
+
+/* Class = "IBUILabel"; text = "User name"; ObjectID = "6DG-O9-b45"; */
+"6DG-O9-b45.text" = "User name";
+
+/* Class = "IBUITabBarItem"; title = "Intelligence"; ObjectID = "7Sv-bH-JWM"; */
+"7Sv-bH-JWM.title" = "Intelligence";
+
+/* Class = "IBUILabel"; text = "Other"; ObjectID = "9bd-y6-gCL"; */
+"9bd-y6-gCL.text" = "Other";
+
+/* Class = "IBUIButton"; normalTitle = "Bar Code Scanner"; ObjectID = "9md-wH-3ai"; */
+"9md-wH-3ai.normalTitle" = "Bar Code Scanner";
+
+/* Class = "IBUITextField"; placeholder = "email@domain.com"; ObjectID = "AVV-7I-SzG"; */
+"AVV-7I-SzG.placeholder" = "email@domain.com";
+
+/* Class = "IBUITabBarItem"; title = "RSS feeds"; ObjectID = "Auw-Kp-L0Y"; */
+"Auw-Kp-L0Y.title" = "RSS feeds";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "BtG-cK-PV5"; */
+"BtG-cK-PV5.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Alternate number"; ObjectID = "FvV-bQ-HO3"; */
+"FvV-bQ-HO3.text" = "Alternate number";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "GZr-ej-lJ1"; */
+"GZr-ej-lJ1.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "H1b-d0-Kxd"; */
+"H1b-d0-Kxd.text" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = "Scan Business Card"; ObjectID = "IaO-wU-lck"; */
+"IaO-wU-lck.normalTitle" = "Scan Business Card";
+
+/* Class = "IBUILabel"; text = "Company:"; ObjectID = "K7J-g8-Riw"; */
+"K7J-g8-Riw.text" = "Company:";
+
+/* Class = "IBUIButton"; normalTitle = "email"; ObjectID = "Lk6-YR-9ba"; */
+"Lk6-YR-9ba.normalTitle" = "email";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Lr4-CB-6Hp"; */
+"Lr4-CB-6Hp.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "chat"; ObjectID = "MWP-2N-v18"; */
+"MWP-2N-v18.title" = "chat";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "N8L-0a-RJq"; */
+"N8L-0a-RJq.normalTitle" = "Send";
+
+/* Class = "IBUISearchBar"; placeholder = "search"; ObjectID = "NJH-sp-sis"; */
+"NJH-sp-sis.placeholder" = "search";
+
+/* Class = "IBUISearchBar"; NJH-sp-sis.scopeButtonTitles[0] = "Name "; ObjectID = "NJH-sp-sis"; */
+"NJH-sp-sis.scopeButtonTitles[0]" = "Name ";
+
+/* Class = "IBUISearchBar"; NJH-sp-sis.scopeButtonTitles[1] = "Country name"; ObjectID = "NJH-sp-sis"; */
+"NJH-sp-sis.scopeButtonTitles[1]" = "Country name";
+
+/* Class = "IBUISearchBar"; NJH-sp-sis.scopeButtonTitles[2] = "company name"; ObjectID = "NJH-sp-sis"; */
+"NJH-sp-sis.scopeButtonTitles[2]" = "company name";
+
+/* Class = "IBUILabel"; text = "Other"; ObjectID = "NeD-aE-YoD"; */
+"NeD-aE-YoD.text" = "Other";
+
+/* Class = "IBUITabBarItem"; title = "feed"; ObjectID = "PVf-CR-CvE"; */
+"PVf-CR-CvE.title" = "feed";
+
+/* Class = "IBUILabel"; text = "alternate number"; ObjectID = "PvF-tg-JC1"; */
+"PvF-tg-JC1.text" = "alternate number";
+
+/* Class = "IBUILabel"; text = "Company name"; ObjectID = "Td5-SP-iVo"; */
+"Td5-SP-iVo.text" = "Company name";
+
+/* Class = "IBUIButton"; normalTitle = "Reminders"; ObjectID = "XBy-Mi-qsi"; */
+"XBy-Mi-qsi.normalTitle" = "Reminders";
+
+/* Class = "IBUITextField"; placeholder = "8888888888"; ObjectID = "XXd-0A-tAN"; */
+"XXd-0A-tAN.placeholder" = "8888888888";
+
+/* Class = "IBUIButton"; normalTitle = "Quick Meeting Event"; ObjectID = "Xr6-JG-2CX"; */
+"Xr6-JG-2CX.normalTitle" = "Quick Meeting Event";
+
+/* Class = "IBUITabBarItem"; title = "Request Info"; ObjectID = "Y1O-SA-wZk"; */
+"Y1O-SA-wZk.title" = "Request Info";
+
+/* Class = "IBUITabBarItem"; title = "Contacts"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Contacts";
+
+/* Class = "IBUILabel"; text = "Country"; ObjectID = "amz-wY-7Ye"; */
+"amz-wY-7Ye.text" = "Country";
+
+/* Class = "IBUITextField"; placeholder = "select country"; ObjectID = "b3x-Ww-DFc"; */
+"b3x-Ww-DFc.placeholder" = "select country";
+
+/* Class = "IBUITextField"; placeholder = "Designation"; ObjectID = "bRQ-ac-pGS"; */
+"bRQ-ac-pGS.placeholder" = "Designation";
+
+/* Class = "IBUILabel"; text = "Company"; ObjectID = "bZi-TY-K9a"; */
+"bZi-TY-K9a.text" = "Company";
+
+/* Class = "IBUIBarButtonItem"; title = "Edit"; ObjectID = "cvy-5W-Vyz"; */
+"cvy-5W-Vyz.title" = "Edit";
+
+/* Class = "IBUIButton"; normalTitle = "Capture Photo"; ObjectID = "e7T-RA-JxW"; */
+"e7T-RA-JxW.normalTitle" = "Capture Photo";
+
+/* Class = "IBUILabel"; text = "Tel:"; ObjectID = "fje-Cf-sUK"; */
+"fje-Cf-sUK.text" = "Tel:";
+
+/* Class = "IBUITextField"; placeholder = "Company"; ObjectID = "fnh-Rx-8tZ"; */
+"fnh-Rx-8tZ.placeholder" = "Company";
+
+/* Class = "IBUILabel"; text = "Email address"; ObjectID = "geR-8s-tep"; */
+"geR-8s-tep.text" = "Email address";
+
+/* Class = "IBUILabel"; text = "Phone Number"; ObjectID = "glp-QK-Unf"; */
+"glp-QK-Unf.text" = "Phone Number";
+
+/* Class = "IBUITextField"; placeholder = "Other info"; ObjectID = "iHX-4S-yGt"; */
+"iHX-4S-yGt.placeholder" = "Other info";
+
+/* Class = "IBUILabel"; text = "country"; ObjectID = "iux-iH-XUt"; */
+"iux-iH-XUt.text" = "country";
+
+/* Class = "IBUILabel"; text = "Phone"; ObjectID = "jli-sy-oPA"; */
+"jli-sy-oPA.text" = "Phone";
+
+/* Class = "IBUILabel"; text = "Alternate number"; ObjectID = "lPw-i6-Did"; */
+"lPw-i6-Did.text" = "Alternate number";
+
+/* Class = "IBUILabel"; text = "Subject:"; ObjectID = "lSV-xt-Vgr"; */
+"lSV-xt-Vgr.text" = "Subject:";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "lfk-Cn-iWU"; */
+"lfk-Cn-iWU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUILabel"; text = "Country"; ObjectID = "lw3-uW-YWS"; */
+"lw3-uW-YWS.text" = "Country";
+
+/* Class = "IBUITextField"; placeholder = "+918888888888"; ObjectID = "m6R-pb-LxB"; */
+"m6R-pb-LxB.placeholder" = "+918888888888";
+
+/* Class = "IBUILabel"; text = "Country"; ObjectID = "mIa-vC-FIK"; */
+"mIa-vC-FIK.text" = "Country";
+
+/* Class = "IBUILabel"; text = "Full Name"; ObjectID = "mXl-Id-of0"; */
+"mXl-Id-of0.text" = "Full Name";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "nAG-83-afM"; */
+"nAG-83-afM.text" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "p8o-8y-7KW"; */
+"p8o-8y-7KW.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Phone"; ObjectID = "pcX-3Z-Ieb"; */
+"pcX-3Z-Ieb.text" = "Phone";
+
+/* Class = "IBUIButton"; normalTitle = "+919538538108909"; ObjectID = "rAO-Dz-l8N"; */
+"rAO-Dz-l8N.normalTitle" = "+919538538108909";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "rfA-Fu-kkx"; */
+"rfA-Fu-kkx.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Contacts"; ObjectID = "sWR-AA-9Ps"; */
+"sWR-AA-9Ps.title" = "Contacts";
+
+/* Class = "IBUITextField"; placeholder = "+91"; ObjectID = "sXZ-cd-vFP"; */
+"sXZ-cd-vFP.placeholder" = "+91";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "tqz-Yi-HKQ"; */
+"tqz-Yi-HKQ.placeholder" = "Last Name";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "ucr-2d-Ztm"; */
+"ucr-2d-Ztm.normalTitle" = "Add";
+
+/* Class = "IBUIButton"; normalTitle = "Choose Photo"; ObjectID = "wAn-lX-C0k"; */
+"wAn-lX-C0k.normalTitle" = "Choose Photo";
+
+/* Class = "IBUIButton"; normalTitle = "Add Photo"; ObjectID = "wYd-RR-RMn"; */
+"wYd-RR-RMn.normalTitle" = "Add Photo";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "yzt-mi-yw1"; */
+"yzt-mi-yw1.normalTitle" = "Cancel";

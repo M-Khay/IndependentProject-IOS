@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.iPad.XIB" version="3.0" toolsVersion="4514" systemVersion="13D65" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3747"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.69999999999999973" contentMode="center" reuseIdentifier="cell" id="j1d-7p-LbD" customClass="IDVCollectionVIewCustomCell">
+            <rect key="frame" x="0.0" y="0.0" width="133" height="165"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="133" height="165"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="AxR-zx-q2g">
+                        <rect key="frame" x="5" y="2" width="122" height="88"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="0.92941182851791382" green="0.97254908084869385" blue="0.9803922176361084" alpha="1" colorSpace="deviceRGB"/>
+                    </imageView>
+                    <view clipsSubviews="YES" alpha="0.69999999999999996" contentMode="scaleToFill" id="SzY-5q-2sY">
+                        <rect key="frame" x="4" y="113" width="133" height="32"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="lnS-8A-cNs">
+                                <rect key="frame" x="0.0" y="1" width="59" height="18"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="10"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="iQL-1N-4t6">
+                                <rect key="frame" x="102" y="-1" width="32" height="32"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <state key="normal" image="share.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="onClickShare:" destination="j1d-7p-LbD" eventType="touchUpInside" id="CO3-Sk-7Sc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="hDT-0h-PGv">
+                                <rect key="frame" x="62" y="-1" width="32" height="32"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <state key="normal" image="favourite.png">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="selected" image="filled_star.png"/>
+                                <connections>
+                                    <action selector="onClickAddToFavourite:" destination="j1d-7p-LbD" eventType="touchUpInside" id="7eR-gx-mgp"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kUk-gG-sVE">
+                                <rect key="frame" x="0.0" y="15" width="73" height="17"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="10"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.92941182850000004" green="0.97254908080000002" blue="0.98039221759999995" alpha="1" colorSpace="deviceRGB"/>
+                    </view>
+                    <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mAs-qj-tI0">
+                        <rect key="frame" x="5" y="150" width="130" height="34"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="11"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="K37-V3-v3n">
+                        <rect key="frame" x="-1" y="-1" width="22" height="22"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <size key="customSize" width="114" height="88"/>
+            <connections>
+                <outlet property="otl_BtnFavourite" destination="hDT-0h-PGv" id="Olq-YI-4hR"/>
+                <outlet property="otl_BtnShare" destination="iQL-1N-4t6" id="zjY-Kr-bJu"/>
+                <outlet property="otl_CreationDate" destination="kUk-gG-sVE" id="bHn-gL-5JT"/>
+                <outlet property="otl_ImageView" destination="AxR-zx-q2g" id="qkp-Ud-7X5"/>
+                <outlet property="otl_LblFileName" destination="mAs-qj-tI0" id="veF-9j-kzA"/>
+                <outlet property="otl_LblSize" destination="lnS-8A-cNs" id="l8h-he-ABA"/>
+                <outlet property="otl_imageLock" destination="K37-V3-v3n" id="HYX-Ky-7oQ"/>
+                <outlet property="otl_stripView" destination="SzY-5q-2sY" id="orr-j1-qpw"/>
+            </connections>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="favourite.png" width="48" height="48"/>
+        <image name="filled_star.png" width="32" height="32"/>
+        <image name="share.png" width="32" height="32"/>
+    </resources>
+</document>
